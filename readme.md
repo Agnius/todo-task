@@ -37,10 +37,9 @@ Response: token
 
 All other actions requires authorization header with provided token.
 
-Please look ant web.php for all routes they are in REST API style.
+Please look at web.php file for all routes.
 
 No API documentation provided for the moment because I'm out of time limit.
 If you will have problems with current code base, let me know. :)
 
 Please see DatabaseSeeder to better understand relationships and etc.
-
